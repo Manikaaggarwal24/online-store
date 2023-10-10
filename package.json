@@ -1,6 +1,7 @@
 {
-  "name": "online-store",
+  
   "homepage": "https://manikaaggarwal24.github.io/online-store/",
+  "name": "online-store",
   "version": "2.0.0",
   "description": "online store with MERN",
   "type": "module",
